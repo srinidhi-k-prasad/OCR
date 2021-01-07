@@ -3,7 +3,8 @@
   <name>OCR</name>
   <version>0.0.0</version>
   <description>OCR</description>
-  <maintainer>Srinidhi K Prasad</maintainer>
+ <maintainer email="srinidhi.hhh@gmail.com">cyborg</maintainer>
+<license>TODO</license>
   <buildtool_depend>catkin</buildtool_depend>
 </package>
  
